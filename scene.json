@@ -11,40 +11,40 @@
       "glyph": "package",
       "label": "Package",
       "role": "path",
-      "x": 0.12,
-      "y": 0.5
+      "x": 0.14,
+      "y": 0.32
     },
     {
       "id": "n2",
       "glyph": "die",
       "label": "Dies",
       "role": "path",
-      "x": 0.31,
-      "y": 0.5
+      "x": 0.5,
+      "y": 0.32
     },
     {
       "id": "n3",
       "glyph": "interposer",
       "label": "Interposer routing",
       "role": "path",
-      "x": 0.5,
-      "y": 0.5
+      "x": 0.86,
+      "y": 0.32
     },
     {
       "id": "n4",
       "glyph": "heat",
       "label": "Heat",
       "role": "energy",
-      "x": 0.69,
-      "y": 0.5
+      "x": 0.14,
+      "y": 0.7
     },
     {
       "id": "n5",
       "glyph": "harness",
       "label": "Power",
       "role": "energy",
-      "x": 0.88,
-      "y": 0.5
+      "x": 0.86,
+      "y": 0.7
     }
   ],
   "edges": [
