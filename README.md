@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/chiplet-package-and-interposer-explainer/
 
+Repository: https://github.com/mizcausevic-dev/chiplet-package-and-interposer-explainer
+
 ## What this is
 
 An interactive anatomy plate for Chiplet Package and Interposer. Play, scrub, or jump the five stages. The same frame always draws the same picture.
